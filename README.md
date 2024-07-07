@@ -23,8 +23,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer From Cambodia</h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ➪ 𝙽𝙰𝙼𝙴 :- ANGKERITH
+NRSTSEC
